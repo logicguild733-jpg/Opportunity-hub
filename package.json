@@ -1,6 +1,5 @@
 "engines": {
-  "node": "18.x"
-},
+  "node": "18.x"},
 {
   "name": "@workspace/opportunity-hub",
   "version": "0.0.0",
